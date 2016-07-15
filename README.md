@@ -34,3 +34,4 @@ Get username:
 ```
 r_user.get_username()
 ```
+More complete documentation about used api - [Random User Generator API](https://randomuser.me/documentation)
